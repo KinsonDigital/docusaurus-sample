@@ -1,0 +1,47 @@
+{
+  "tutorialSidebar": [
+    {
+      "type": "doc",
+      "label": "Tutorial Intro",
+      "id": "intro"
+    },
+    {
+      "type": "category",
+      "label": "Tutorial - Basics",
+      "collapsed": true,
+      "items": [
+        {
+          "type": "doc",
+          "label": "Create a Page",
+          "id": "tutorial-basics/create-a-page"
+        }
+      ]
+    },
+    {
+      "type": "category",
+      "label": "Tutorial - Extras",
+      "collapsed": true,
+      "items": [
+        {
+          "type": "doc",
+          "label": "Manage Docs Versions",
+          "id": "tutorial-extras/manage-docs-versions"
+        }
+      ]
+    }
+  ],
+  "api": [
+    {
+      "type": "category",
+      "label": "API",
+      "collapsed": false,
+      "items": [
+        {
+          "type": "doc",
+          "label": "API Index",
+          "id": "api/api-index"
+        }
+      ]
+    }
+  ]
+}
