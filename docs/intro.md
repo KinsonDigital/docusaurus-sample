@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Tutorial Intro
 
-## VERSION v1.0.0
+## VERSION v2.0.0
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
